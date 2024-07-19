@@ -1,4 +1,4 @@
-package org.example.javafxfun.c05otherLayout;
+package org.example.javafxfun.c03hboxlayout;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

@@ -1,4 +1,4 @@
-package org.example.javafxfun.c01firstProject;
+package org.example.javafxfun.c01firstproject;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
