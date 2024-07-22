@@ -1,4 +1,4 @@
-package org.example.javafxfun.c14todolist;
+package org.example.javafxfun.c15todolist2;
 
 import java.time.LocalDate;
 
@@ -36,10 +36,5 @@ public class TodoItem {
 
     public void setDeadline(LocalDate deadline) {
         this.deadline = deadline;
-    }
-
-    @Override
-    public String toString() {
-        return shortDescription;
     }
 }

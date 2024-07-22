@@ -1,4 +1,4 @@
-package org.example.javafxfun.c14todolist;
+package org.example.javafxfun.c18filteredlist;
 
 import java.time.LocalDate;
 
@@ -38,8 +38,4 @@ public class TodoItem {
         this.deadline = deadline;
     }
 
-    @Override
-    public String toString() {
-        return shortDescription;
-    }
 }
